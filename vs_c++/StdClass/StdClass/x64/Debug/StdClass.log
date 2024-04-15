@@ -1,0 +1,4 @@
+﻿  MyString.cpp
+E:\Code\vs_c++\StdClass\StdClass\MyString.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\Code\vs_c++\StdClass\StdClass\MyString.cpp(6,46): error C2572: “MyString::MyString”: 重定义默认参数 : 参数 1
+E:\Code\vs_c++\StdClass\StdClass\MyString.h(7): message : 参见“MyString::MyString”的声明
