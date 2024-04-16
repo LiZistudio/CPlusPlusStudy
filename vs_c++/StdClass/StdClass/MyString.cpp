@@ -8,7 +8,7 @@ inline MyString::MyString(const char* cstr = 0) {
 		m_data = new char[strlen(cstr)+1];
 		strcpy(m_data, cstr);
 	}
-	else {//Î´Ö¸¶¨³õÖµ
+	else {
 		m_data = new char[1];
 		*m_data = '\0';
 	}
