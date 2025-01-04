@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\vs_c\u002B\u002B\\StdClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8523F7E0-599B-4F3B-A1E3-D8A93B3B8AE6}|StdClass\\StdClass.vcxproj|D:\\Code\\vs_c\u002B\u002B\\StdClass\\StdClass\\MyString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8523F7E0-599B-4F3B-A1E3-D8A93B3B8AE6}|StdClass\\StdClass.vcxproj|solutionrelative:StdClass\\MyString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8523F7E0-599B-4F3B-A1E3-D8A93B3B8AE6}|StdClass\\StdClass.vcxproj|D:\\Code\\vs_c\u002B\u002B\\StdClass\\StdClass\\complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8523F7E0-599B-4F3B-A1E3-D8A93B3B8AE6}|StdClass\\StdClass.vcxproj|solutionrelative:StdClass\\complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8523F7E0-599B-4F3B-A1E3-D8A93B3B8AE6}|StdClass\\StdClass.vcxproj|D:\\Code\\vs_c\u002B\u002B\\StdClass\\StdClass\\MyString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8523F7E0-599B-4F3B-A1E3-D8A93B3B8AE6}|StdClass\\StdClass.vcxproj|solutionrelative:StdClass\\MyString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8523F7E0-599B-4F3B-A1E3-D8A93B3B8AE6}|StdClass\\StdClass.vcxproj|D:\\Code\\vs_c\u002B\u002B\\StdClass\\StdClass\\complex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8523F7E0-599B-4F3B-A1E3-D8A93B3B8AE6}|StdClass\\StdClass.vcxproj|solutionrelative:StdClass\\complex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8523F7E0-599B-4F3B-A1E3-D8A93B3B8AE6}|StdClass\\StdClass.vcxproj|D:\\Code\\vs_c\u002B\u002B\\StdClass\\StdClass\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8523F7E0-599B-4F3B-A1E3-D8A93B3B8AE6}|StdClass\\StdClass.vcxproj|solutionrelative:StdClass\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 220,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyString.h",
+              "DocumentMoniker": "D:\\Code\\vs_c\u002B\u002B\\StdClass\\StdClass\\MyString.h",
+              "RelativeDocumentMoniker": "StdClass\\MyString.h",
+              "ToolTip": "D:\\Code\\vs_c\u002B\u002B\\StdClass\\StdClass\\MyString.h",
+              "RelativeToolTip": "StdClass\\MyString.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-21T14:03:03.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "complex.h",
+              "DocumentMoniker": "D:\\Code\\vs_c\u002B\u002B\\StdClass\\StdClass\\complex.h",
+              "RelativeDocumentMoniker": "StdClass\\complex.h",
+              "ToolTip": "D:\\Code\\vs_c\u002B\u002B\\StdClass\\StdClass\\complex.h",
+              "RelativeToolTip": "StdClass\\complex.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-21T14:03:04.144Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 195,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "test.cpp",
+              "DocumentMoniker": "D:\\Code\\vs_c\u002B\u002B\\StdClass\\StdClass\\test.cpp",
+              "RelativeDocumentMoniker": "StdClass\\test.cpp",
+              "ToolTip": "D:\\Code\\vs_c\u002B\u002B\\StdClass\\StdClass\\test.cpp",
+              "RelativeToolTip": "StdClass\\test.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T14:03:04.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyString.cpp",
+              "DocumentMoniker": "D:\\Code\\vs_c\u002B\u002B\\StdClass\\StdClass\\MyString.cpp",
+              "RelativeDocumentMoniker": "StdClass\\MyString.cpp",
+              "ToolTip": "D:\\Code\\vs_c\u002B\u002B\\StdClass\\StdClass\\MyString.cpp",
+              "RelativeToolTip": "StdClass\\MyString.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T14:03:04.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "complex.cpp",
+              "DocumentMoniker": "D:\\Code\\vs_c\u002B\u002B\\StdClass\\StdClass\\complex.cpp",
+              "RelativeDocumentMoniker": "StdClass\\complex.cpp",
+              "ToolTip": "D:\\Code\\vs_c\u002B\u002B\\StdClass\\StdClass\\complex.cpp",
+              "RelativeToolTip": "StdClass\\complex.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T14:03:04.164Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

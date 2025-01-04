@@ -1,7 +1,0 @@
-﻿  MyString.cpp
-D:\CPlusPlusStudy\vs_c++\StdClass\StdClass\MyString.cpp(6,39): error C2572: “MyString::MyString”: 重定义默认参数 : 参数 1
-  D:\CPlusPlusStudy\vs_c++\StdClass\StdClass\MyString.h(7,2):
-  参见“MyString::MyString”的声明
-  
-  test.cpp
-  正在生成代码...
